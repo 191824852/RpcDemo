@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-consumer" />
+        <module name="dubbo-provider" />
+        <module name="hessian-consumer" />
+        <module name="hessian-provider" />
+        <module name="http-invoke-rcommon-api" />
+        <module name="http-invoker-consumer" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-consumer" target="1.7" />
+      <module name="dubbo-provider" target="1.7" />
+      <module name="hessian-consumer" target="1.7" />
+      <module name="hessian-provider" target="1.7" />
+      <module name="http-invoke-rcommon-api" target="1.7" />
+      <module name="http-invoker-consumer" target="1.7" />
+      <module name="http-invoker-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

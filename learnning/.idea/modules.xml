@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" filepath="$PROJECT_DIR$/dubbo-consumer/dubbo-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" filepath="$PROJECT_DIR$/dubbo-provider/dubbo-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hessian-consumer/hessian-consumer.iml" filepath="$PROJECT_DIR$/hessian-consumer/hessian-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hessian-provider/hessian-provider.iml" filepath="$PROJECT_DIR$/hessian-provider/hessian-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-invoke-rcommon-api/http-invoke-rcommon-api.iml" filepath="$PROJECT_DIR$/http-invoke-rcommon-api/http-invoke-rcommon-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-invoker-consumer/http-invoker-consumer.iml" filepath="$PROJECT_DIR$/http-invoker-consumer/http-invoker-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-invoker-provider/http-invoker-provider.iml" filepath="$PROJECT_DIR$/http-invoker-provider/http-invoker-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/learnning.iml" filepath="$PROJECT_DIR$/.idea/learnning.iml" />
+    </modules>
+  </component>
+</project>

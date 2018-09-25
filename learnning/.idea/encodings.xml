@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/dubbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hessian-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hessian-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/http-invoke-rcommon-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/http-invoker-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/http-invoker-provider" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
