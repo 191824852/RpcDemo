@@ -1,0 +1,14 @@
+环境：
+jdk1.8 
+maven 
+springboot 
+idea
+
+
+dubbo 请参考，官方的例子，我的例子中没有搭建注册中心；
+
+httpInvoker 是Spring自带的RPC框架，只能在Spring家族中使用 底层使用HTTP协议 ---dubbo的http协议就是使用该框架实现
+ 
+Hessian 是一种轻量级的RPC框架，底层也是HTTP协议---dubbo的Hessian协议就是使用该框架实现
+
+注意： httpInvoker 以及 Hessain的参数，必须序列化
